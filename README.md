@@ -1,3 +1,2 @@
 # virtual-keyboard
-My virtual keyboard
-Made by example of Alex Lushchenko
+My virtual keyboard. Made by example of Alex Lushchenko
